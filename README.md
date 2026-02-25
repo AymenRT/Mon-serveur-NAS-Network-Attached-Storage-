@@ -51,7 +51,7 @@ L'interface CasaOS confirme la bonne reconnaissance du matériel :
 
 ### Configuration finale
 
-![le serveur est installé sur la machine de gauche, et je le contrôle à distance depuis mon PC portable via SSH.](images/Configuration_Final.jpeg)
+![le serveur est installé sur la machine de gauche, et je le contrôle à distance depuis mon PC portable via SSH.](images/Configuration_Final.png)
 
 
 ## 🔧 4. Maintenance & Récupération (Mode Headless)
