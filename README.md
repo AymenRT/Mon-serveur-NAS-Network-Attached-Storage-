@@ -9,7 +9,7 @@ Documentation technique pour mon serveur NAS sous Debian 12 avec CasaOS
 
 ---
 
-##  1. Spécifications Matérielles
+## 🛠 1. Spécifications Matérielles
 
 * **Modèle :** Dell OptiPlex 3020 SFF (Small Form Factor).
 * **Processeur :** Intel Core i5 (4ème génération).
