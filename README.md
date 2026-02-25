@@ -1,5 +1,5 @@
-# Mon-serveur-NAS-Network-Attached-Storage-
-Documentation technique et fichiers de configuration pour mon serveur NAS personnel sous Debian 12 avec CasaOS
+# Mon-serveur-NAS-
+Documentation technique pour mon serveur NAS sous Debian 12 avec CasaOS
 
 > **Matériel :** Dell OptiPlex 3020 SFF
 
@@ -52,6 +52,7 @@ L'interface CasaOS confirme la bonne reconnaissance du matériel :
 ---
 
 ### Configuration finale
+Le serveur est installé sur la machine de gauche, et je le contrôle à distance depuis mon PC portable via SSH
 
 ![le serveur est installé sur la machine de gauche, et je le contrôle à distance depuis mon PC portable via SSH.](images/Configuration_Finale.png)
 
