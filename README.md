@@ -1,5 +1,5 @@
 # Mon-serveur-NAS
-Documentation technique pour mon serveur NAS sous Debian 12 avec CasaOS
+Documentation technique de mon serveur NAS sous Debian 12 avec CasaOS
 
 > **Matériel :** Dell OptiPlex 3020 SFF
 
