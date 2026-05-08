@@ -43,8 +43,8 @@ wget -qO- https://get.casaos.io | sudo bash
 
 L'interface CasaOS confirme la bonne reconnaissance du matériel :
 
-* **CPU :** ~2% au repos.
-* **RAM :** ~15% d'utilisation sur 8 Go.
+* **CPU :** ~5% au repos.
+* **RAM :** ~13% d'utilisation sur 8 Go.
 * **Stockage :** HDD 500 Go (`sda`) bien détecté et utilisé pour le stockage principal.
 
 ![Interface utilisateur CasaOS](images/Interface.png)
